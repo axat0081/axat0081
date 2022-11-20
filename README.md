@@ -20,3 +20,5 @@
 ### Work experience - 
 - 💻 Former software development intern @Microsoft 
 - 💻 Former mobile app development intern @Spacenos
+
+<img align="right" src="https://gpvc.arturio.dev/axat0081" alt="Profile views">
