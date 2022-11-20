@@ -17,4 +17,6 @@
 <img alt="c++" src="https://img.shields.io/badge/-c%2B%2B%20-orange" />&nbsp;
 <img alt="java" src="https://img.shields.io/badge/-java-yellowgreen" />&nbsp;
 
-
+### Work experience - 
+- 💻 Former software development intern @Microsoft 
+- 💻 Former mobile app development intern @Spacenos
