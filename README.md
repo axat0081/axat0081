@@ -3,7 +3,7 @@
 ## I am a Student, a competive programmer and software development enthusiast!
 
 - 📍 I'm a student at IIT Roorkee. 
-- 💻 I am an active competitive programmer, making it to 100 globally in google kickstart competitions and winner of India Terminal bot programming competiton
+- 💻 I am an active competitive programmer, making it to 100 globally in google kickstart competitions and winner of Citadel Securities India Terminal bot programming competiton
 - 👨‍💻 I love backend development, I mostly work with nodejs
 - I also love learning and working with other new technologies and tech stacks 
 
